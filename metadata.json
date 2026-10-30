@@ -1,0 +1,6 @@
+{
+  "name": "Empório Chef Ale Caldas - Menu Digital",
+  "description": "Cardápio digital premium e exclusivo do Empório Chef Ale Caldas no Tatuapé, São Paulo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
